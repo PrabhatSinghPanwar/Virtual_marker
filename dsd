@@ -1,0 +1,29 @@
+[33mcommit 1d05b5cf7584bfe013237bfdbd0d1e87eb1b68dd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: PrabhatSinghPanwar <prabhatsingh348@gmail.com>
+Date:   Sat Jan 30 11:48:12 2021 +0530
+
+    adding for loop for more dynamic color seletions
+
+[33mcommit 024f95d81f0f1aa708717a30e6ea31fac04e7de5[m
+Author: PrabhatSinghPanwar <prabhatsingh348@gmail.com>
+Date:   Sat Jan 30 11:43:45 2021 +0530
+
+    putting the bounding box over the desired detected object
+
+[33mcommit 4ccc898d75645179053b602d19c4379848556e83[m
+Author: PrabhatSinghPanwar <prabhatsingh348@gmail.com>
+Date:   Fri Jan 29 20:49:25 2021 +0530
+
+    making mask and finding the proper color for the marker #JUST A TEST
+
+[33mcommit 94bb428bf70dd2e1e028f3eef1d905eb37283515[m
+Author: PrabhatSinghPanwar <prabhatsingh348@gmail.com>
+Date:   Fri Jan 29 20:47:59 2021 +0530
+
+    making mask and finding the proper color for the marker #JUST A TEST
+
+[33mcommit 0aebaa9a59e7d436d03f268970773e12871d88ee[m
+Author: PrabhatSinghPanwar <prabhatsingh348@gmail.com>
+Date:   Fri Jan 29 19:19:59 2021 +0530
+
+    accessing the camera
