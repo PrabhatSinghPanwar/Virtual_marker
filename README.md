@@ -21,7 +21,7 @@ PYTHON
 
 
 # DESCRIPTION :
-	This project helps to draw the drawing using AI in real time through 
+This project helps to draw the drawing using AI in real time through 
 the camera and you can paint any basic diagram on the screen.
 This project can be used in many online chatting apps so that the person 
 can explain by making some visuals over his screen.
