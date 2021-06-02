@@ -2,7 +2,7 @@
 This is my first project on the github, it  is a virtual marker using open cv
 
 
-# THIS IS A PROJECT BASED ON COMPUTER VISION AND AI
+# THIS IS A PROJECT BASED ON COMPUTER VISION
 
 
 
